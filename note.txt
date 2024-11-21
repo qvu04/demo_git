@@ -30,3 +30,6 @@
 -----gome code từ login về master (đứng tại nhánh master kéo về)
 
 git merce login
+
+-----git checkout branch (đổi branch)
+-----git branch(check máy đang sử dụng branch gì)
