@@ -22,3 +22,7 @@
 +git commit -m "create home page html"
 
 +git push
+
+-----tạo nhánh
+
++git checkout -b
