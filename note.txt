@@ -25,11 +25,11 @@
 
 -----tạo nhánh
 
-+git checkout -b
++git checkout -b [tên nhánh]
 
 -----gome code từ login về master (đứng tại nhánh master kéo về)
 
 git merge login
 
------git checkout branch (đổi branch)
+-----git checkout [tên nhánh] (đổi branch)
 -----git branch(check máy đang sử dụng branch gì)
