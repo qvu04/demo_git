@@ -26,3 +26,7 @@
 -----tạo nhánh
 
 +git checkout -b
+
+-----gome code từ login về master (đứng tại nhánh master kéo về)
+
+git merce login
