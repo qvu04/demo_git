@@ -1,5 +1,4 @@
---- Đẩy code từ local lên remote -------------------
-
+--- Đẩy code từ local lên remote
 +repository local: souce code trong máy tính
 
 +repository remote: souce lưu trên github
@@ -18,11 +17,8 @@
 
 -----Đẩy lần 2 trở đi
 
-+git add -A
++git add 
 
 +git commit -m "create home page html"
 
 +git push
-
-
-adasdadadasdasdasdaddadasdadadasdadasdadad
